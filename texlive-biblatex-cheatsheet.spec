@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-cheatsheet
 Version:	44685
-Release:	1
+Release:	2
 Summary:	BibLaTeX/Biber 'cheat sheet'
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-cheatsheet
