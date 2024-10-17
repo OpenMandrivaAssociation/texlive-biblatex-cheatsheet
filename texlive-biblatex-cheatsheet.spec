@@ -3,7 +3,7 @@ Version:	44685
 Release:	2
 Summary:	BibLaTeX/Biber 'cheat sheet'
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-cheatsheet
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-cheatsheet
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-cheatsheet.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-cheatsheet.doc.r%{version}.tar.xz
